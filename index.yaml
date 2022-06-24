@@ -3,6 +3,19 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-06-24T16:43:19.633518732Z"
+    description: A Helm chart for Kubernetes
+    digest: e0fc2619f7ccbdb21e87ba2b65e84ca4f68c271804781e3af64f4cdfcc111a8f
+    maintainers:
+    - email: webmaster@petities.nl
+      name: petities
+    name: helloworld
+    type: application
+    urls:
+    - https://github.com/petities/charts/releases/download/helloworld-0.1.1/helloworld-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-12-11T16:22:27.567107929Z"
     description: A Helm chart for Kubernetes
     digest: e2854860b5801276f4f09da070f8bf74c60e087e9abcb595c697b52e8a457aa8
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/petities/charts/releases/download/helloworld-0.1.0/helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-11T16:22:27.321362841Z"
+generated: "2022-06-24T16:43:19.633528832Z"
